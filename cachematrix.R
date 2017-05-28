@@ -45,7 +45,7 @@ mat1$g_inv()
 cacheSolve(mat1)
 cacheSolve(mat1)
 
-# Solution testing case 2
+# Solution testing case 2. Run to see o/p as part of solution
 
 mat1$set(matrix(c(1, 4, 2, 6), 2, 2))
 mat1$get()
